@@ -27,6 +27,7 @@
 * [thecodingmachine/gotenberg-go-client](https://github.com/thecodingmachine/gotenberg-go-client) - Gotenberg **6.x** ⚠️
 * [thecodingmachine/gotenberg-php-client](https://github.com/thecodingmachine/gotenberg-php-client) - Gotenberg **6.x** ⚠️
 * [yumauri/gotenberg-js-client](https://github.com/yumauri/gotenberg-js-client) - Gotenberg **6.x** ⚠️
+* [rsoika/HTML2PDF Converter (java client)](https://gist.github.com/rsoika/0cae2fa63a565ec4698bce13f243118d) - Gotenberg **6.x** ⚠️
 
 ## Modules
 
